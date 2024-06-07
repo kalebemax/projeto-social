@@ -1,1 +1,22 @@
 @charset "UTF-8";
+
+a > img {
+    border-radius: 500px;
+    width: 70px;
+    margin: 10px;
+    position: relative;
+    left: 93%;
+}
+
+.image {
+    background: url(fundo-madeira.jpg);
+}
+
+iframe {
+    width: 400px;
+    height: 708px;
+    display: block;
+    margin: auto;
+}
+
+
